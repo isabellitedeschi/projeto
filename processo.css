@@ -1,0 +1,44 @@
+{margin: 0;padding: 0;}
+
+.background-header{
+    background-color: -webkit-radial-gradient(left,rgb(0,119,136),rgb(7,213,213));
+    height: 60px; 
+    color: black;
+}
+.background-footer{
+    background:  -webkit-radial-gradient(left,rgb(0,119,136),rgb(7,213,213));
+    height: 60px;
+    color:white;
+}
+h1
+    {
+    padding-left: 10px;
+    font-size: 35px;
+    font-weight: 300;  
+    }
+nav
+    {
+    display: flex;
+  justify-content:space-between;
+    } 
+
+li 
+    {
+    padding-right: 20px;
+    font-size :20px;
+    font-weight: 300;
+    display: inline; 
+    padding:5px;
+    }
+
+article
+    {
+        margin:auto;
+        width: 60%;
+        height: 1300px;
+    }
+
+i
+{
+    color:red;
+}
